@@ -136,8 +136,4 @@ jupyter notebook customer_churn_prediction.ipynb
 - Enhanced SVM optimization
 - Cross-validation for more robust evaluation
 
-## Author
 
-**Shaista**
-
-Machine Learning Project: Bank Customer Churn Prediction using Neural Networks and Linear SVM implemented from scratch.
