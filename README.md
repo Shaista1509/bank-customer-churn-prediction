@@ -1,4 +1,4 @@
-# Bank Churn Prediction
+# Bank Customer Churn Prediction
 
 Predict whether a bank customer will leave the bank using
 
